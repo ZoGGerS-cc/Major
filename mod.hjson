@@ -1,7 +1,7 @@
 displayName:"Major"
 name:"Major"
-description:"[#FFD700] Добавляет магнитные вещи с улучшенной скоростью добычи, передачи, стрельбы."
-author:"[#FFD700]ZoGGerS-Dim4ik"
+description:"Добавляет магнитные вещи с улучшенной скоростью добычи, передачи, стрельбы."
+author:"ZoGGerS-Dim4ik"
 version:"2.2"
 dependencies:[]
 minGameVersion: 122
