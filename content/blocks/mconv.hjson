@@ -1,5 +1,5 @@
 type: "Conveyor"
-name: "[#FFD700]Магнитный Конвейер"
+name: "[#FFD700]Магнитный Конвейер"
 description: "[#FFD700]Данный конвейер передаёт рессурсы по типу: Thorium, Titanium, Copper, Lead, и т.д"
 health: 1000
 speed: 0.5
