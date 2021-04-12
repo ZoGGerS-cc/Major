@@ -1,0 +1,20 @@
+name:"[#FFD700]Магнитный Бур"
+description: "[#FFD700]Класический бур для нефтеяных магнатов. По строительству нуууу там лучше помолчать..." 
+type: "Drill"
+health: 10000
+size: 4
+tier: 100
+drillTime: 2
+itemCapacity: 1000
+rotateSpeed: 5
+requirements: [ 
+thorium/2000
+titanium/2000
+graphite/2000
+copper/2000
+lead/2000
+silicon/2000
+] 
+category: "production" 
+hardnessDrillMultiplier: 0
+alwaysUnlocked:true

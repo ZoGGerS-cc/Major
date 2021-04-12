@@ -1,0 +1,13 @@
+name:"[#FFD700]Маленькая Магнитная Стена"
+description: Test My Wall
+health: 10000
+type: Wall
+size:1
+requirements:[
+thorium/20
+titanium/20
+copper/20
+lead/20
+]
+category:defense
+alwaysUnlocked: true

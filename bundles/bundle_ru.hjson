@@ -1,0 +1,6 @@
+mod.Major.description = [#FFD700]Добавляет Магнитные штуки.
+
+block.Major-mconv.name = [#FFD700]Магнитный Конвейер
+block.Major-mdrill.name = [#FFD700]Магнитный Бур
+block.Major-mwall1.name = [#FFD700]Магнитная Стена
+block.Major-mwall2.namr = [#FFD700]Большая Магнитная Стена
