@@ -1,6 +1,6 @@
 displayName:"Major"
 name:"Major"
-description:"Добавляет магнитные вещи с улучшенной скоростью добычи, передачи, стрельбы."
+description:"Данный мод добовляет в "Дерево Технологий" новые буры, конвееры и стены защиты!"
 author:"ZoGGerS-Dim4ik"
 version:"2.2"
 dependencies:[]
