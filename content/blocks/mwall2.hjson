@@ -10,4 +10,16 @@ copper/200
 lead/200
 ]
 category:defense
-alwaysUnlocked: true
+alwaysUnlocked: false
+research: true
+research: {
+ parent: mwall1
+ requirements: [
+  thorium/400
+  titanium/400
+  graphite/400
+  copper/400
+  lead/400
+  silicon/400
+ ]
+}
