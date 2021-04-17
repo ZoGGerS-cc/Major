@@ -10,8 +10,7 @@ graphite/5
 copper/5
 ]
 category: distribution
-hardnessConvMultiplier: 0
-alwaysUnlocked:true
+alwaysUnlocked: false
 research: true
 research: {
  parent: titanium-conveyor
