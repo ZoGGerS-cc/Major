@@ -9,13 +9,25 @@ drillTime: 2
 itemCapacity: 1000
 rotateSpeed: 5
 requirements: [ 
-thorium/2000
-titanium/2000
-graphite/2000
-copper/2000
-lead/2000
-silicon/2000
+ thorium/2000
+ titanium/2000
+ graphite/2000
+ copper/2000
+ lead/2000
+ silicon/2000
 ] 
 category: "production" 
 hardnessDrillMultiplier: 0
-alwaysUnlocked:true
+alwaysUnlocked: false
+research: true
+research: {
+ parent: laser-drill
+ requirements: [
+  thorium/4000
+  titanium/4000
+  graphite/4000
+  copper/4000
+  lead/4000
+  silicon/4000
+ ]
+}
