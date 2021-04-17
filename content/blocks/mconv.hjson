@@ -12,3 +12,15 @@ copper/5
 category: distribution
 hardnessConvMultiplier: 0
 alwaysUnlocked:true
+research: true
+research: {
+ parent: titanium-conveyor
+ requirements: [
+  thorium/10
+  titanium/10
+  graphite/10
+  copper/10
+  lead/10
+  silicon/10
+ ]
+}
