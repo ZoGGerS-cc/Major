@@ -10,4 +10,16 @@ copper/20
 lead/20
 ]
 category:defense
-alwaysUnlocked: true
+alwaysUnlocked: false
+research: true
+research: {
+ parent: thorium-wall
+ requirements: [
+  thorium/40
+  titanium/40
+  graphite/40
+  copper/40
+  lead/40
+  silicon/40
+ ]
+}
