@@ -7,3 +7,7 @@ vecosity: 10
 explosiveness: 0
 effect: "boss"
 color: [#FFD700]
+research: true
+research: {
+ parent: thorium
+}
