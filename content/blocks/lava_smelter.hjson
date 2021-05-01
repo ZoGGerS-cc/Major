@@ -3,27 +3,20 @@ description: "[#FFD700]Данная установка плавит различ
 type: "lava_smelter"
 health: 1000
 size: 2
-itemCapacity: 1000
-rotateSpeed: 5
+hasPover: true
+hasItems: true
+updateEffect: steam
+iteamCapacity: 100
+ambientSound: respawning
+ambientSoundVolume: 0.5
+consumes: {
+pover: 0.5
+items: {items:[
+scrap/ 1
+]}}
 requirements: [ 
 copper/ 1
-lead/ 1
-thorium/ 1
-titanium/ 1
-silicon/ 1
-graphite:/ 1
 ] 
-category: "production" 
-alwaysUnlocked: false
-research: true
-research: {
-parent: melter
-requirements: [
-copper/ 1
-lead/ 1
-thorium/ 1
-titanium/ 1
-silicon/ 1
-graphite/ 1
- ]
-}
+category: "crafting" 
+alwaysUnlocked: true
+research: melter
