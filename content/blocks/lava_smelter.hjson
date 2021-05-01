@@ -1,0 +1,30 @@
+
+name:"[#FFD700]Плавильня металов"
+description: "[#FFD700]Данная установка плавит различные металы превращая их в сгусток магмы." 
+type: "lava_smelter"
+health: 1000
+size: 2
+itemCapacity: 1000
+rotateSpeed: 5
+requirements: [ 
+copper: 1
+lead: 1
+thorium: 1
+titanium: 1
+silicon: 1
+graphite: 1
+] 
+category: "production" 
+alwaysUnlocked: false
+research: true
+research: {
+parent: melter
+requirements: [
+copper: 1
+lead: 1
+thorium: 1
+titanium: 1
+silicon: 1
+graphite: 1
+ ]
+}
