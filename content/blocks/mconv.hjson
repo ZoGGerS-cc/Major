@@ -1,6 +1,6 @@
 type: "Conveyor"
 name: "[#FFD700]Магнитный Конвейер"
-description: "[#FFD700]Данный конвейер передаёт рессурсы по типу: Thorium, Titanium, Copper, Lead, и т.д"
+description: "[#FFD700]Данный тип конвейеров передаёт рессурсы по типу: Торий, Титан, Медь, Свинец, и т.д"
 health: 1000
 speed: 0.5
 requirements:[
