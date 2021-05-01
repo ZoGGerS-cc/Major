@@ -9,5 +9,4 @@ effect: "boss"
 color: [#FFD700]
 research: true
 research: {
- parent: scrap
-}
+ parent: scrap}
