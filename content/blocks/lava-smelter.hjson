@@ -23,6 +23,6 @@ research: true
 research: {
  parent: melter
  requirements: [
-  copper/4000
+  copper/1
  ]
 }
