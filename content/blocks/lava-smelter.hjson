@@ -18,7 +18,7 @@ requirements: [
 copper/ 1
 ] 
 category: "crafting" 
-alwaysUnlocked: true
+alwaysUnlocked: false
 research: true
 research: {
  parent: melter
