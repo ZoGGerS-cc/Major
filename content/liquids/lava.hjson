@@ -9,5 +9,5 @@ effect: "boss"
 color: [#FFD700]
 research: true
 research: {
- parent: thorium
+ parent: scrap
 }
