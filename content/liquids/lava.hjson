@@ -8,5 +8,4 @@ explosiveness: 0
 effect: "boss"
 color: [#FFD700]
 research: true
-research: {
- parent: scrap}
+research: {parent: scrap}
