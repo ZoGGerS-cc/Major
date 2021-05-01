@@ -10,7 +10,7 @@ iteamCapacity: 100
 ambientSound: respawning
 ambientSoundVolume: 0.5
 consumes: {
-pover: 0.5
+power: 0.5
 items: {items:[
 scrap/ 1
 ]}}
