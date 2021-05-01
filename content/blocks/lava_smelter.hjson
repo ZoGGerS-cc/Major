@@ -21,7 +21,7 @@ category: "crafting"
 alwaysUnlocked: true
 research: true
 research: {
- parent: laser-drill
+ parent: melter
  requirements: [
   copper/4000
  ]
