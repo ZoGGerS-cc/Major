@@ -6,16 +6,20 @@ size: 2
 hasPover: true
 hasItems: true
 updateEffect: steam
+outputliquid: lava/1
 iteamCapacity: 100
 ambientSound: respawning
 ambientSoundVolume: 0.5
 consumes: {
 power: 0.5
 items: {items:[
-scrap/ 1
+scrap/ 10
 ]}}
 requirements: [ 
-copper/ 1
+copper/ 100
+thorium/ 100
+titanium/ 100
+lead/100
 ] 
 category: "crafting" 
 alwaysUnlocked: false
@@ -23,6 +27,9 @@ research: true
 research: {
  parent: melter
  requirements: [
-  copper/1
+  copper/ 1000
+  thorium/ 1000
+  titanium/ 1000
+  lead/ 1000
  ]
 }
