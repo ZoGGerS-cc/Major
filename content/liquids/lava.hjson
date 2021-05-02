@@ -3,7 +3,7 @@ description: "[#FFD700]Расскалёный сгусток железа, ун�
 temperature: 10
 flammability: 0
 heatCampacity: 10
-vecosity: 6
+vecosity: 4
 explosiveness: 0
 effect: "boss"
 color: "FF2D00"
