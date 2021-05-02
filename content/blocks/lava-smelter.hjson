@@ -7,7 +7,6 @@ hasPover: true
 hasItems: true
 updateEffect: steam
 outputLiquid: lava/ 1
-outputItem: lava/ 1
 iteamCapacity: 1000
 LiquidCapacity: 1000
 ambientSound: respawning
