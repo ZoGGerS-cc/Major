@@ -1,9 +1,9 @@
 name:"[#FFD700]Лава"
 description: "[#FFD700]Расскалёный сгусток железа, уничтожающий всё на своём пути!"
 temperature: 10
-flammability: 10
+flammability: 0
 heatCampacity: 10
-vecosity: 4
-explosiveness: 10
+vecosity: 6
+explosiveness: 0
 effect: "boss"
-color: "#FFD700"
+color: "FF2D00"
