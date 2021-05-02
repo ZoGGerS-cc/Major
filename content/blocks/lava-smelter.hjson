@@ -1,13 +1,15 @@
 name:"[#FFD700]Метало Переработчик"
 description: "[#FFD700]Данная установка плавит различные металы превращая их в сгусток магмы." 
 type: "lava-smelter"
-health: 1000
+health: 10000
 size: 2
 hasPover: true
 hasItems: true
 updateEffect: steam
-outputliquid: lava/ 1
-iteamCapacity: 100
+outputLiquid: lava/ 1
+outputItem: lava/ 1
+iteamCapacity: 1000
+LiquidCapacity: 1000
 ambientSound: respawning
 ambientSoundVolume: 0.5
 consumes: {
