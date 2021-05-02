@@ -6,7 +6,7 @@ size: 2
 hasPover: true
 hasItems: true
 updateEffect: steam
-outputliquid: lava/1
+outputliquid: lava/ 1
 iteamCapacity: 100
 ambientSound: respawning
 ambientSoundVolume: 0.5
@@ -19,7 +19,7 @@ requirements: [
 copper/ 100
 thorium/ 100
 titanium/ 100
-lead/100
+lead/ 100
 ] 
 category: "crafting" 
 alwaysUnlocked: false
