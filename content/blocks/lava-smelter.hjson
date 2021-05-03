@@ -11,7 +11,7 @@ ambientSound: respawning
 ambientSoundVolume: 1
 
 consumes: {
-pover: 0.5
+power: 0.5
 items:{items:[
 scrap/ 10
 ]}}
