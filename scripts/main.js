@@ -3,6 +3,9 @@ require("blocks/drill");
 require("blocks/conv");
 require("blocks/mwall1");
 require("blocks/mwall2");
+require("blocks/lava-smelter");
+require("liquid/lava");
+
 
 print("[#FFD700]Major Mod");
 print("[#FFD700]by ZoGGerS-Dim4ik");
