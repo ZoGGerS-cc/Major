@@ -9,6 +9,8 @@ craftTime: 15
 updateEffect: steam
 ambientSound: respawning
 ambientSoundVolume: 1
+ItemCapacity: 1000
+LiqudCapacity: 100
 
 consumes: {
 power: 0.5
