@@ -1,0 +1,41 @@
+name: "Плавильня металов"
+description: "Данная фабрика при получению металолома перерабатывает его в сгусток магмы у которой температура достигает до 3000 градусов!"
+type: "lava-smelter"
+size: 2
+outputLiquid: lava/ 1
+hasPover: true
+hasItems: true
+craftTime: 15
+updateEffect: steam
+ambientSound: respawning
+ambientSoundVolume: 1
+
+consumes: {
+pover: 0.5
+items:{items:[
+scrap/ 10
+]}}
+
+requirements: [ 
+ thorium/200
+ titanium/200
+ graphite/200
+ copper/200
+ lead/200
+ silicon/200
+]
+
+category: crafting
+alwaysUnlocked: false
+research: true
+research: {
+ parent: melter
+ requirements: [
+  thorium/400
+  titanium/400
+  graphite/400
+  copper/400
+  lead/400
+  silicon/400
+ ]
+}
