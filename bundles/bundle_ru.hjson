@@ -4,4 +4,5 @@ block.Major-mconv.name = Магнитный Конвейер
 block.Major-mdrill.name = Магнитный Бур
 block.Major-mwall1.name = Магнитная Стена
 block.Major-mwall2.name = Большая Магнитная Стена
+block.Major-lava-smelter.name = Переработчик Металолома
 liquid.Major-lava.name = Лава
