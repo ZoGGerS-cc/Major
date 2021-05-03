@@ -1,6 +1,7 @@
-mod.Major.description = [#FFD700]Добавляет Магнитные штуки.
+mod.Major.description = Добавляет разные предметы для прохождения компании.
 
-block.Major-mconv.name = [#FFD700]Магнитный Конвейер
-block.Major-mdrill.name = [#FFD700]Магнитный Бур
-block.Major-mwall1.name = [#FFD700]Магнитная Стена
-block.Major-mwall2.namr = [#FFD700]Большая Магнитная Стена
+block.Major-mconv.name = Магнитный Конвейер
+block.Major-mdrill.name = Магнитный Бур
+block.Major-mwall1.name = Магнитная Стена
+block.Major-mwall2.name = Большая Магнитная Стена
+liquid.Major-lava.name = Лава
