@@ -1,8 +1,8 @@
 name: "[#FFD700] Лава"
 description:"[#FFD700]Это сгусток магмы который имеет температуру более 3000°."
-temperature:30
+temperature:0.5
 flammability: 0
-heatCapacity:30
+heatCapacity:0.5
 viscosity:1
 explosiveness:0
 effect:"boss"
