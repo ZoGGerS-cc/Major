@@ -12,10 +12,7 @@
    ambientSoundVolume: 1
    ItemCapacity: 100
    LiqudCapacity: 500
-   "outputLiquid": {
-       liquid": "lava"
-       amount": 1
-   },
+   outputLiquid: lava/1
 "consumes":{
 "power":0.25
 "items":{"item":[ 
