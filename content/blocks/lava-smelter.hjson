@@ -1,27 +1,30 @@
-name: "[#FFD700]Плавильня Металолома"
-description: "[#FFD700]Данная фабрика при получению металолома перерабатывает его в сгусток магмы у которой температура достигает до 3000 градусов!"
-type:GenericCrafter
-size: 2
-healt: 10000
-outputLiquid:{
-liquid: lava
-amount: 1
-}
-hasPower: true
-hasLiquids: false
-hasItems: true
-craftTime: 20
-updateEffect: steam
-ambientSound: respawning
-ambientSoundVolume: 1
-ItemCapacity: 1000
-LiqudCapacity: 1000
-consumes: {
-power: 0.5
-items:{items:[
-scrap/ 10
-]}}
-
+{
+   "type": "GenericCrafter"
+   "name": "[#FFD700]Плавильня Металолома"
+   "description": "[#FFD700]Данная фабрика при получению металолома перерабатывает его в сгусток магмы у которой температура достигает до 3000 градусов!"
+   "size": 2,
+   "hasPower": true,
+   "hasLiquids": false,
+   "hasItems": true,
+   "craftTime: 20,
+   "updateEffect": "oily",
+   "ambientSound: respawning
+   "ambientSoundVolume: 1
+   "ItemCapacity: 100
+   "LiqudCapacity: 500
+   "outputLiquid": {
+       liquid": "lava",
+       amount": 1
+   },
+   "consumes": {
+       "power": 0.25,
+       "items": [
+           {
+                "item": "Scrap",
+                "amount": 10
+           }
+       ]
+   },
 requirements: [ 
  thorium/200
  titanium/200
@@ -44,4 +47,5 @@ research: {
   lead/400
   silicon/400
  ]
+}
 }
