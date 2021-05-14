@@ -7,7 +7,7 @@
    "hasLiquids": false,
    "hasItems": true,
    "craftTime: 20,
-   "updateEffect": "oily",
+   "updateEffect": "steam",
    "ambientSound: respawning
    "ambientSoundVolume: 1
    "ItemCapacity: 100
