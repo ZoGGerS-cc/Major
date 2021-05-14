@@ -1,6 +1,6 @@
 name: "[#FFD700]Плавильня Металолома"
 description: "[#FFD700]Данная фабрика при получению металолома перерабатывает его в сгусток магмы у которой температура достигает до 3000 градусов!"
-type:GenericSmelter
+type:GenericCrafter
 size: 2
 healt: 10000
 outputLiquid:{
@@ -15,7 +15,7 @@ updateEffect: steam
 ambientSound: respawning
 ambientSoundVolume: 1
 ItemCapacity: 1000
-LiqudCapacity: 100
+LiqudCapacity: 1000
 consumes: {
 power: 0.5
 items:{items:[
