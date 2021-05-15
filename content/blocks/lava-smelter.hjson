@@ -12,10 +12,12 @@ ambientSound: respawning
 ambientSoundVolume: 1
 ItemCapacity: 100
 LiqudCapacity: 500
-outputsLiquid: lava/1
+outputsLiquid:{liquid:[ 
+lava/1
+]}
 consumes:{
 power:0.25
-items:{"item":[ 
+items:{item:[ 
 scrap/10
 ]}}
 requirements: [ 
