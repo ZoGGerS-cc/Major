@@ -12,13 +12,14 @@ ambientSound: respawning
 ambientSoundVolume: 1
 ItemCapacity: 100
 LiqudCapacity: 500
-outputsLiquid:{liquid:[ 
-lava/1
-]}
-consumes:{
-power:0.25
-items:{item:[ 
-scrap/10
+outputsLiquid:{
+liquid: lava
+amount: 1
+}
+consumes: {
+power: 0.5
+items:{items:[
+scrap/ 10
 ]}}
 requirements: [ 
  thorium/200
