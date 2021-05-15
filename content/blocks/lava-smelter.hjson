@@ -18,9 +18,10 @@ amount: 1
 }
 consumes:{
 power:0.25
-items:{item:[ 
-scrap/10
-]}}
+items: {
+item: scrap
+amount: 10
+}}
 requirements: [ 
  thorium/200
  titanium/200
