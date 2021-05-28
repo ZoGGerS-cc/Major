@@ -5,9 +5,9 @@ size: 2
 hasPower: true
 hasItems: true
 craftTime: 10
-updateEffect: steam
+updateEffect:steam
 ambientSound: respawning
-ambientSoundVolume: 1
+ambientSoundVolume: 0.5
 ItemCapacity: 100
 LiqudCapacity: 500
 outputLiquid: {
