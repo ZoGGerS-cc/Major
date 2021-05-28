@@ -15,8 +15,7 @@ amount: 0.5
 }
 consumes:{
 items: [
-item: Scrap
-amount: 10
+scrap/10
 ]}
 requirements: [ 
  thorium/200
