@@ -18,8 +18,7 @@ amount: 0.5
 consumes:{
 power:0.25
 items: {
-item: scrap
-amount: 10
+item: scrap/10
 }}
 requirements: [ 
  thorium/200
