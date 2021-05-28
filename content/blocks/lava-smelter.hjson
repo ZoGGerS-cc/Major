@@ -2,6 +2,7 @@
 "name": "[#FFD700]Плавильня Металолома"
 "description": "[#FFD700]Данная фабрика при получению металолома перерабатывает его в сгусток магмы у которой температура достигает до 3000 градусов!"
 size: 2
+hasPower: true
 hasItems: true
 craftTime: 10
 updateEffect: steam
@@ -14,9 +15,10 @@ liquid: lava
 amount: 0.5
 }
 consumes:{
-items: [
+power:0.5
+items:{items:[
 scrap/10
-]}
+]}}
 requirements: [ 
  thorium/200
  titanium/200
