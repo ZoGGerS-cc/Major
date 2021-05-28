@@ -14,10 +14,10 @@ liquid: lava
 amount: 0.5
 }
 consumes:{
-items: {
+items: [
 item: Scrap
 amount: 10
-}}
+]}
 requirements: [ 
  thorium/200
  titanium/200
