@@ -10,7 +10,7 @@ ambientSound: respawning
 ambientSoundVolume: 0.5
 ItemCapacity: 100
 LiqudCapacity: 500
-outputLiquid: {"liquid": "Lava", "amount": 1}
+outputLiquid: {liquid:[Lava/1]}
 craftItem: 240
 consumes:{
 power:0.5
