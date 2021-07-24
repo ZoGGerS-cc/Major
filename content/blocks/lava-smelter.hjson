@@ -12,25 +12,24 @@ outputLiquid: {"liquid": "lava", "amount": 0.5}
 craftItem: 240
 consumes: {"items": "scrap", "amount": 10}
 requirements: [ 
- thorium/200
- titanium/200
- graphite/200
- copper/200
- lead/200
- silicon/200
+ {"items": "thorium", "amount": 200}
+ {"items": "titanium", "amount": 200}
+ {"items": "graphite", "amount": 200}
+ {"items": "copper", "amount": 200}
+ {"items": "lead", "amount": 200}
+ {"items": "silicon", "amount": 200}
 ]
-
 category: crafting
 alwaysUnlocked: false
 research: true
 research: {
  parent: melter
  requirements: [
- thorium/400
- titanium/400
- graphite/400
- copper/400
- lead/400
- silicon/400
+ {"items": "thorium", "amount": 400}
+ {"items": "titanium", "amount": 400}
+ {"items": "graphite", "amount": 400}
+ {"items": "copper", "amount": 400}
+ {"items": "lead", "amount": 400}
+ {"items": "silicon", "amount": 400}
  ]
 }
