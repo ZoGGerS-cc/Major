@@ -10,11 +10,9 @@ ambientSound: respawning
 ambientSoundVolume: 0.5
 ItemCapacity: 100
 LiqudCapacity: 500
-outputLiquid: {liquid:[Lava/1]}
+outputLiquid: {"liquid": "lava", "amount": 0.5}
 craftItem: 240
-consumes:{
-power:0.5
-items:{items:[scrap/10]}}
+consumes:{items:[scrap/10]}
 idleSoundVolume: 1
 requirements: [ 
  thorium/200
