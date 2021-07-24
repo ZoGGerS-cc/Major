@@ -10,15 +10,14 @@ ambientSound: respawning
 ambientSoundVolume: 0.5
 ItemCapacity: 100
 LiqudCapacity: 500
-outputLiquid: {
-liquid: lava
-amount: 0.5
-}
+outputLiquid: {"liquid": "Lava", "amount": 1}
+craftItem: 240
 consumes:{
-power:0.5
-items:{items:[
-scrap/10
-]}}
+   power: 0.1
+   item: scrap
+     amount: 10
+   }
+idleSoundVolume: 1
 requirements: [ 
  thorium/200
  titanium/200
