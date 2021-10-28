@@ -1,7 +1,7 @@
 displayName:"Major"
 name:"Major"
 description:"Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
-author:"ZoGGerS Dim4ik n33nat0"
+author:"ZoGGerS, Dim4ik, n33nat0"
 version:"2.2"
 dependencies:[]
 minGameVersion: 122
