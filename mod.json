@@ -1,0 +1,12 @@
+{
+  "name": "relax",
+  "displayName": "[#aaf0d1]Relaz",
+  "author": "[[#aaf0d1]ZoGGerS]",
+  "description": "[#aaf0d1]Мод на стадии разработки!",
+  "subtitle": "",
+  "version": "1.1",
+  "main": "",
+  "minGameVersion": "144",
+  "dependencies": [],
+  "hidden": false
+}
