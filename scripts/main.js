@@ -8,7 +8,7 @@ require("blocks/mwall2");
 print("[#AAF0D1]relax_test_alpha");
 print("[#FFD700]by ZoGGerS");
 
-var mod = Vars.mods.locateMod("Major");
-mod.meta.displayName = "Major";
-mod.meta.description = "@mod.major.description";
+var mod = Vars.mods.locateMod("relax");
+mod.meta.displayName = "relax";
+mod.meta.description = "@mod.relax.description";
 mod.meta.author = "ZoGGerS-Dim4ik";
