@@ -1,8 +1,6 @@
-mod.Major.description = Добавляет разные предметы для прохождения компании.
+mod.Major.description = Чисто релакс тема которая в разработке))).
 
 block.Major-mconv.name = Магнитный Конвейер
 block.Major-mdrill.name = Магнитный Бур
 block.Major-mwall1.name = Магнитная Стена
 block.Major-mwall2.name = Большая Магнитная Стена
-block.Major-lava-smelter.name = Плявильня Металолома
-liquid.Major-lava.name = Лава
