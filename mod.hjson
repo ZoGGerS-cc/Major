@@ -1,7 +1,7 @@
-displayName:"Major"
-name:"Major"
-description:"Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты! МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
-author:"ZoGGerS, Dim4ik, n33nat0"
+displayName:"[#FFD700]relax"
+name:"alpha_test"
+description:"[#FFD700]МОД НАХОДИТЬСЯ НА СТАДИИ РАЗРАБОТКИ"
+author:"ZoGGerS"
 version:"2.4"
 dependencies:[]
 minGameVersion: 136
