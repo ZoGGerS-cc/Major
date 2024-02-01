@@ -1,18 +1,14 @@
-{
-  "name": "Relax",
-  "displayName": "[#aaf0d1[]]Relax[[]]",
-  "author": "[#aaf0d1[]]ZoGGerS[[]]",
-  "main": "net.zoggers-cc.major",
-  "repo": "zoggers-cc/relax"
-  "description": 
+name: "Relax"
+displayName: "[#aaf0d1[]]Relax[[]]",
+author: "[#aaf0d1[]]ZoGGerS[[]]",
+main: "net.zoggers-cc.major",
+repo: "zoggers-cc/relax"
+description: 
    ...
    [#aaf0d1[]]Мод на стадии разработки![[]]
    [#aaf0d1[]]Russian[[]]
    [#aaf0d1[]]GitHub: github.com/ZoGGerS-cc/Major[[]]
    ...
-  "version": "5.1",
-  "minGameVersion": 141,
-  "dependencies": [],
-  "hidden": false,
-  "java": true
-}
+version:"2.7"
+dependencies:[]
+minGameVersion: 142
