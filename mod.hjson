@@ -1,6 +1,6 @@
 name: "Relax"
 displayName: "[#aaf0d1[]]Relax[[]]",
-author: "[#aaf0d1[]]ZoGGerS[[]]",
+author: "[#aaf0d1[]]ZoGGerS & Diman4ik[[]]",
 main: "net.zoggers-cc.major",
 repo: "zoggers-cc/relax"
 description: 
@@ -11,4 +11,4 @@ description:
    ...
 version:"2.7"
 dependencies:[]
-minGameVersion: 142
+minGameVersion: 151
