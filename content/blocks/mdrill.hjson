@@ -7,14 +7,16 @@ tier: 100
 drillTime: 2
 itemCapacity: 1000
 hasPower: true,
-consumes: 
+consumes: {
    power: 660
-    liquid: 
+    liquid: [
       liquid: "cryofluid"
       amount: 0.7
-    liquid: 
+]
+    liquid: [
       liquid: "slag"
       amount :0.5
+]}
 rotateSpeed: 5
 requirements: [ 
  thorium/2000
