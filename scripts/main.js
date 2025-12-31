@@ -1,6 +1,6 @@
 //Mod
 var mod = Vars.mods.locateMod("major");
-mod.meta.displayName = "[#aaf0d1[]]Major[[]";
+mod.meta.displayName = "Major";
 mod.meta.description = "@mod.major.description";
 mod.meta.author = "[#aaf0d1[]]ZoGGerS & Diman4ik[[]]";
 
