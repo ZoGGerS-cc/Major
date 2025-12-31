@@ -11,15 +11,15 @@ consumes: [
    power: 660
 ]
 consumes: [
-    liquid: [
+    liquid: 
       liquid: "cryofluid"
       amount: 0.7
-]]
+]
 consumes: [
-    liquid: [
+    liquid: 
       liquid: "slag"
       amount :0.5
-]]
+]
 rotateSpeed: 5
 requirements: [ 
  thorium/2000
