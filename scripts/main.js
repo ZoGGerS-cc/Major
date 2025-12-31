@@ -1,7 +1,7 @@
 //Mod
-var mod = Vars.mods.locateMod("relax");
-mod.meta.displayName = "relax";
-mod.meta.description = "@mod.relax.description";
+var mod = Vars.mods.locateMod("major");
+mod.meta.displayName = "[#aaf0d1[]]Major[[]";
+mod.meta.description = "@mod.major.description";
 mod.meta.author = "ZoGGerS & Dim4ik";
 
 //Block
