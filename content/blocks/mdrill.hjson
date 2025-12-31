@@ -9,11 +9,13 @@ itemCapacity: 1000
 hasPower: true,
 consumes: {
    power: 660
-    liquid: [
+   liquid: [
       liquid: "cryofluid"
       amount: 0.7
-      liquid: "water"
-      amount : 0.3
+]
+   liquid: [
+      liquid: "slag"
+      amount: 0.3
 ]}
 rotateSpeed: 5
 requirements: [ 
