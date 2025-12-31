@@ -10,4 +10,6 @@ require("blocks/conv");
 require("blocks/mwall1");
 require("blocks/mwall2");
 
-print("[#FFD700]by ZoGGerS & Dim4ik");
+//Print_Name
+print("[green]☆major_beta☆");
+print("[#FFD700]☆by ZoGGerS & Dim4ik☆");
