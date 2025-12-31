@@ -8,10 +8,12 @@ drillTime: 2
 itemCapacity: 1000
 hasPower: true,
 consumes: {
-   power: 660
+   power: 666
    liquid: [
       liquid: "cryofluid"
       amount: 0.7
+      booster: true
+      optional: false
 ]}
 rotateSpeed: 5
 requirements: [ 
