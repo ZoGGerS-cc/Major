@@ -2,11 +2,11 @@ name: "major"
 displayName: "Major"
 author: "ZoGGerS & Diman4ik"
 description: 
-   ...
+   "...
    [#aaf0d1[]]Мод на стадии разработки![[]]
    [#aaf0d1[]]Russian[[]]
    [#aaf0d1[]]GitHub: github.com/ZoGGerS-cc/Major[[]]
-   ...
+   ..."
 version:"1.1.0"
 dependencies:[]
 minGameVersion: 146
