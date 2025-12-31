@@ -2,7 +2,7 @@
 var mod = Vars.mods.locateMod("major");
 mod.meta.displayName = "Major";
 mod.meta.description = "@mod.major.description";
-mod.meta.author = "[#aaf0d1[]]ZoGGerS & Diman4ik[[]]";
+mod.meta.author = "ZoGGerS & Diman4ik";
 
 //Block
 require("blocks/drill");
