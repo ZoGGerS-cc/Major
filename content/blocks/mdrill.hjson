@@ -14,7 +14,7 @@ consumes: {
       amount: 0.7
 ]
     liquid: [
-      liquid: "slag"
+      liquid: "Slag"
       amount : 0.5
 ]}
 rotateSpeed: 5
