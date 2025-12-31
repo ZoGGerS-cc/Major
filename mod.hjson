@@ -9,4 +9,4 @@ description:
    ...
 version:"2.7"
 dependencies:[]
-minGameVersion: 140
+minGameVersion: 146
