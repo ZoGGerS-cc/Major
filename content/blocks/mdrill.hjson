@@ -3,19 +3,25 @@ description: "[#AAF0D1]Данный бур лучше строить с юнит
 type: "Drill"
 health: 10000
 size: 4
-tier: 100
-drillTime: 2
-itemCapacity: 1000
-hasPower: true,
+tier: 30
+rotateSpeed: 4
+drillTime: 60
+liquidBoostIntensity: 1
+drawRim: true
+warmupSpeed: 0.0878
+drillEffect: "mine"
+hasLiquids: true
+hardnessDrillMultiplier: 5
+liquidCapacity: 25
+expanded: true
 consumes: {
-   power: 666
-   liquid: [
+    power: 25
+    liquid: {
       liquid: "cryofluid"
-      amount: 0.7
-      booster: true
+      amount: 0.2
+      booster: false
       optional: false
-]}
-rotateSpeed: 5
+    }
 requirements: [ 
  thorium/2000
  titanium/2000
