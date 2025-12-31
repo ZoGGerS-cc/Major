@@ -2,7 +2,7 @@ name:"[#FFD700]Большая Магнитная Стена"
 description: Test My Big Wall
 health: 100000
 type: Wall
-size:2
+size:7
 requirements:[
 thorium/200
 titanium/200
