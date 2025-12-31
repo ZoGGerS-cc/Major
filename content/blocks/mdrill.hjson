@@ -9,13 +9,9 @@ itemCapacity: 1000
 hasPower: true,
 consumes: [
    power: 660
-]
-consumes: [
     liquid: 
       liquid: "cryofluid"
       amount: 0.7
-]
-consumes: [
     liquid: 
       liquid: "slag"
       amount :0.5
